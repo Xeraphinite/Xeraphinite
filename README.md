@@ -1,8 +1,11 @@
 ## 🥺 About Me
 
+
 🌏 **Languages**: 中文 / English / 日本語  / 한국어(learning)
 
 🤖 **Prefered Programming Language**: Python / C++ / JavaScript / TypeScript
+
+🔧 **Learning**: React / Flutter / UI & UX / Music Producing / Typography
 
 
 ## 🌈 Stats
@@ -21,7 +24,15 @@
 Engrave it 翳せ盲目の正義を  <br />
 WE GOTTA FIRE
 
-### 🎥 Favourite Dramas/Movie
+### 📺 Favourite Dramas
 
 #### (2023) ブラッシュアップライフ / Rebooting / 重启人生
 <img src="https://pbs.twimg.com/media/FrBpgSsaAAAW9F3?format=jpg&name=orig">
+
+#### (2023) 人選之人—造浪者 / Wave Makers
+我们不要就这样算了。
+
+<img src="https://media.cnn.com/api/v1/images/stellar/prod/230609132404-02-wave-makers.jpg">
+
+### 🎥 Favourite Movies
+
