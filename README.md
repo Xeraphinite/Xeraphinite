@@ -1,5 +1,6 @@
 ## 🥺 About Me
 
+Hi! Here is Xeraphinite(pronunced: /sərɑˈfiənət/)!
 
 🌏 **Languages**: 中文 / English / 日本語  / 한국어(learning)
 
