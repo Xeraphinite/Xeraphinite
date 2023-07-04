@@ -6,7 +6,7 @@ Hi! Here is Xeraphinite(pronunced: /sərɑˈfiənət/)!
 
 🤖 **Prefered Programming Language**: Python / C++ / JavaScript / TypeScript
 
-🔧 **Learning**: React / Flutter / UI & UX / Music Producing / Typography
+🔧 **Learning**: React.js / Flutter / UI & UX / Music Producing / Typography
 
 
 ## 🌈 Stats
