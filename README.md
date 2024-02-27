@@ -2,11 +2,11 @@
 
 Hi! Here is Xeraphinite(pronunced: /sərɑˈfiənət/)!
 
-🌏 **Languages**: 中文 / English / 日本語  / 한국어(learning)
+🌏 **Languages**: 中文(zh-CN) / 广东话 / English / 日本語(ja-JP) / 한국어(learning)
 
 🤖 **Prefered Programming Language**: Python / C++
 
-🔧 **Learning**: UI & UX / Design System / ...
+🔧 **Learning**: UI & UX / Design System / Typography
 
 📂 **My Blog**: [Xeraphinite's Blog](https://xeraphinite.vercel.app) | [Xeraphinite's Tech Blog](https://xeraphinite.netlify.app)
 
