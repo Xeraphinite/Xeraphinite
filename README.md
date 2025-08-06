@@ -14,7 +14,7 @@ Also feel free to contact with me via [Email](mailto:rbchuu@gmail.com) and [Blue
 
 [![Xeraphinite's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xeraphinite)](https://github.com/anuraghazra/github-readme-stats)
 
-## ❓ TMI
+## ❓ Trivia
 
 Beyond research and coding, my interests span a broad spectrum of (indoor) subjects including playing arcade rhythm games, drifting in CJK languages, and consuming CJK-specific media.
 
