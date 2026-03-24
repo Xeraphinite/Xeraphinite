@@ -12,11 +12,13 @@ Also feel free to contact with me via [Email](mailto:rbchuu@gmail.com) and [Blue
 
 ## 🔧 Artifacts
 
-Although all of them are work in progress, small artifacts. Here are the projects I actively developing (with Codex):
+Although all of them are work in progress, small artifacts. Here are the projects I actively developing (with Codex and Claude Code):
 
 -       *play*: Intelligent CAD run in your terminal. Bring your own key and happy vibe CADing;
 -    *autogsm*: An experimental [autoresearch](https://github.com/karpathy/autoresearch) try on Qwen-3.5-2b / Qwen-3.5-0.8b. Automatically optimize GSM8k, which is a saturated benchmark but still kinds-of-hard for small models;
 - *melantonin*: My actively developed blog. I would provide some draft or in-progress writings in [here](https://wickedfrontiers.notion.site/articles) also.
+
+I would open-source them when ready! Keep on watching...?
 
 ## ❓ Trivia
 
