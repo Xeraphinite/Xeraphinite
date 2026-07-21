@@ -10,16 +10,6 @@ I am a novice researcher, a CJK language drifter, and junior design engineer. Ou
 
 Also feel free to contact with me via [Email](mailto:rbchuu@gmail.com) and [BlueSky](https://bsky.app/profile/lonelylight.bsky.social)!
 
-## 🔧 Artifacts
-
-Although all of them are work in progress, small artifacts now. Here are the projects I actively developing (with Codex and Claude Code):
-
-- *play*: Intelligent CAD run in your terminal. Bring your own key and happy vibe CADing, which would open-source in June after my graduation;
-- *autogsm*: An experimental [autoresearch](https://github.com/karpathy/autoresearch) try on Qwen-3.5-2b / Qwen-3.5-0.8b. Automatically optimize GSM8k, which is a saturated benchmark but still kind-of-hard for small models, coming soon;
-- *melantonin*: My actively developed blog. I would provide some draft or in-progress writings in [here](https://wickedfrontiers.notion.site/articles) also.
-
-I would open-source them when ready! Keep on watching...?
-
 ## ❓ Trivia
 
 Beyond research and coding, my interests span a broad spectrum of (indoor) subjects including playing arcade rhythm games, drifting in CJK languages, and consuming CJK-specific media.
