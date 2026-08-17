@@ -2,11 +2,11 @@
 
 Hi! I am Xeraphinite (pronounced: /sərɑˈfiənət/)!
 
-Currently, I am a novice researcher, a CJK language drifter, and a junior design engineer. Outside of research and hacking, I am a rhythm game maniac. I have become a Ph.D. candidate at Hokkaido University!
+Currently, I am a novice researcher, a CJK language drifter, and a junior design engineer. Outside of research and hacking, I am a rhythm game maniac. I am a research student at Hokkaido University, LMD Lab.
 
 - 🌏 **Languages**: 中文 (zh-CN, native), 粤语 (zh-yue, native), English (en-US), 日本語 (ja-JP, JLPT N1), 한국어 (ko-KR, basic), Teochew Dialect (basic);
 - ⌨ **Preferred Programming Languages**: TypeScript/JavaScript, Python, Rust (maybe not);
-- 👀 **Research Interests**: UI/UX Design, Human-Computer Interaction, Large Language Models, and multiple other topics...
+- 👀 **Research Interests**: Agentic Systems, Data-efficient Learning, Human-Computer Interaction.
 
 Also, feel free to contact me via [Email](mailto:rbchuu@gmail.com) or [Bluesky](https://bsky.app/profile/lonelylight.bsky.social)!
 
