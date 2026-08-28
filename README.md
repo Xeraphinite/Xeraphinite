@@ -8,7 +8,7 @@ Currently, I am a novice researcher, a CJK language drifter, and a junior design
 - ⌨ **Preferred Programming Languages**: TypeScript/JavaScript, Python, Rust (maybe not);
 - 👀 **Research Interests**: Agentic Systems, Data-efficient Learning, Human-Computer Interaction.
 
-Also, feel free to contact me via [Email](mailto:rbchuu@gmail.com) or [Bluesky](https://bsky.app/profile/lonelylight.bsky.social)!
+Also, feel free to contact me via [Email](mailto:rbchuu@gmail.com)!
 
 ## ❓ Trivia
 
@@ -18,6 +18,6 @@ I am fascinated by arcade rhythm games, although I barely have time to play... I
 
 Languages are another part of my life. I grew up speaking Mandarin, Cantonese, and the Teochew dialect, studied Japanese, and recently started learning Korean and Hokkien. I hope that one day I can move smoothly between all CJK languages, both in daily life and in research, without barriers.
 
-As an indoor nerd, I spend lots of my precious time consuming diverse media content. For music, I prefer listening to K-pop, J-pop, VOCALOID, and doujin music. I am currently listening to *Red Velvet: Velvet Summer*, *ARTMS: Hyper Ego*, and *Yves: Nails*. For podcasts, movies, dramas, books, and other games, I also focus mainly on CJK regions. Recently, I enjoyed watching *I Saw the TV Glow* and am still waiting to play *Kirby Air Riders*, since I do not have a Nintendo Switch 2 yet. The adorable Kirby always gets my attention 😇. I am also eagerly awaiting Hamaguchi Ryusuke’s new film, *All of a Sudden*. Recently, I started playing *Baldur’s Gate 3*.
+As an indoor nerd, I spend lots of my precious time consuming diverse media content. For music, I prefer listening to K-pop, J-pop, VOCALOID, and doujin music. I am currently listening to *Red Velvet: Velvet Summer*, *ARTMS: Hyper Ego*, and *Yves: Nails*. For podcasts, movies, dramas, books, and other games, I also focus mainly on CJK regions. Recently, I enjoyed watching *I Saw the TV Glow* and am still waiting to play *Kirby Air Riders*, since I do not have a Nintendo Switch 2 yet. The adorable Kirby always gets my attention 😇. I am also eagerly awaiting Hamaguchi Ryusuke’s new film, *All of a Sudden*. Recently, I started to play *Baldur’s Gate 3*.
 
-[Made in ❤](https://www.youtube.com/watch?v=IF8CdXu6Cvo) | README.md was typed entirely by a human, with minor grammar fixes by LLMs.
+[Made in ❤](https://www.youtube.com/watch?v=IF8CdXu6Cvo) | README.md was typed entirely by a human, with grammar fixes by GPT 5.6-Sol.
